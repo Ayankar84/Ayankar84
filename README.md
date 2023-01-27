@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayankar84&label=Profile%20views&color=0e75b6&style=flat" alt="ayankar84" /> </p>
 
-<p align="left"> <a href="https://github.com/Ayankar84"><img width="100" src="https://avatars.githubusercontent.com/u/117516911?v=4" alt="ayankar84" /></a> </p>
+<p align="left"> <a href="https://github.com/Ayankar84"></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
