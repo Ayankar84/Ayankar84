@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/Ayankar84"></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I'm a Full-stack Web Developer.**
 
 - 👨‍💻 All of my projects are available at [https://ayankar84.github.io/](https://ayankar84.github.io/)
 
